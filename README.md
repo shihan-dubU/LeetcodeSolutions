@@ -19,6 +19,7 @@ This repository contains my solutions to the Top Interview 150 questions from Le
 - Navigate to the relevant category directory to find the solution for a specific problem.
 - Each file is named according to the LeetCode problem number and title for easy reference.
 - Click on the problem title in the Problem Categories section above to view the solution directly on GitHub.
+- Find the original questions in the first row comments.
 
 ## Contributions
 
