@@ -2,23 +2,6 @@
 
 This repository contains my solutions to the Top Interview 150 questions from LeetCode. These solutions are written in Java and are organized by problem categories for easy navigation.
 
-## Directory Structure
-
-The directory structure follows the categories provided in the LeetCode study plan. Each category contains solutions to the problems within that topic.
-
-LeetcodeSolutions/
-├── top-interview-150/
-│ ├── array-strings/
-│ │ ├── 121-best-time-to-buy-and-sell-stock.java
-│ │ ├── 122-best-time-to-buy-and-sell-stock-ii.java
-│ │ ├── 169-majority-element.java
-│ │ ├── 189-rotate-array.java
-│ │ ├── 26-remove-duplicates-from-sorted-array.java
-│ │ ├── 27-remove-element.java
-│ │ ├── 80-remove-duplicates-from-sorted-array-ii.java
-│ │ └── 88-merged-sorted-array.java
-│ └── (more categories to be added)
-
 ## Problem Categories
 
 - **Array and Strings**: Solutions to problems related to arrays and strings.
