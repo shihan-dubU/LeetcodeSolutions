@@ -4,15 +4,26 @@ This repository contains my solutions to the Top Interview 150 questions from Le
 
 ## Problem Categories
 
-- **Array and Strings**: Solutions to problems related to arrays and strings.
-  - [Best Time to Buy and Sell Stock](top-interview-150/array-strings/121-best-time-to-buy-and-sell-stock.java)
-  - [Best Time to Buy and Sell Stock II](top-interview-150/array-strings/122-best-time-to-buy-and-sell-stock-ii.java)
-  - [Majority Element](top-interview-150/array-strings/169-majority-element.java)
-  - [Rotate Array](top-interview-150/array-strings/189-rotate-array.java)
-  - [Remove Duplicates from Sorted Array](top-interview-150/array-strings/26-remove-duplicates-from-sorted-array.java)
-  - [Remove Element](top-interview-150/array-strings/27-remove-element.java)
-  - [Remove Duplicates from Sorted Array II](top-interview-150/array-strings/80-remove-duplicates-from-sorted-array-ii.java)
-  - [Merged Sorted Array](top-interview-150/array-strings/88-merged-sorted-array.java)
+### Array and Strings
+
+Solutions to problems related to arrays and strings.
+
+- [Best Time to Buy and Sell Stock](top-interview-150/array-strings/121-best-time-to-buy-and-sell-stock.java)
+- [Best Time to Buy and Sell Stock II](top-interview-150/array-strings/122-best-time-to-buy-and-sell-stock-ii.java)
+- [Majority Element](top-interview-150/array-strings/169-majority-element.java)
+- [Rotate Array](top-interview-150/array-strings/189-rotate-array.java)
+- [Remove Duplicates from Sorted Array](top-interview-150/array-strings/26-remove-duplicates-from-sorted-array.java)
+- [Remove Element](top-interview-150/array-strings/27-remove-element.java)
+- [Remove Duplicates from Sorted Array II](top-interview-150/array-strings/80-remove-duplicates-from-sorted-array-ii.java)
+- [Merged Sorted Array](top-interview-150/array-strings/88-merged-sorted-array.java)
+
+### Two Pointers
+
+Solutions to problems that can be solved using the two-pointer technique.
+
+- [Valid Palindrome](top-interview-150/two-pointers/125-valid-palindrome.java)
+- [Two Sum II - Input Array Is Sorted](top-interview-150/two-pointers/167-two-sum-ii-input-array-is-sorted.java)
+- [Is Subsequence](top-interview-150/two-pointers/392-is-subsequence.java)
 
 ## How to Use
 
