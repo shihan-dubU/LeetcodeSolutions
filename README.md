@@ -14,8 +14,15 @@ Solutions to problems related to arrays and strings.
 - [Rotate Array](top-interview-150/array-strings/189-rotate-array.java)
 - [Remove Duplicates from Sorted Array](top-interview-150/array-strings/26-remove-duplicates-from-sorted-array.java)
 - [Remove Element](top-interview-150/array-strings/27-remove-element.java)
+- [Jump Game](top-interview-150/array-strings/55-jump-game.java)
 - [Remove Duplicates from Sorted Array II](top-interview-150/array-strings/80-remove-duplicates-from-sorted-array-ii.java)
 - [Merged Sorted Array](top-interview-150/array-strings/88-merged-sorted-array.java)
+
+### Sliding Window
+
+Solutions to problems that can be solved using the sliding window technique.
+
+- [Minimum Size Subarray Sum](top-interview-150/sliding-window/209-minimum-size-subarray-sum.java)
 
 ### Two Pointers
 
