@@ -1,4 +1,5 @@
 //qn https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150
+import java.util.HashMap;
 
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
