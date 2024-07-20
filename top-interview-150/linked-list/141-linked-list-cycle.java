@@ -1,6 +1,6 @@
 //QN: https://leetcode.com/problems/linked-list-cycle/description/?envType=study-plan-v2&envId=top-interview-150
 
-public class Solution {
+class Solution {
     public boolean hasCycle(ListNode head) {
 
         //hashset solution
