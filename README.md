@@ -18,11 +18,41 @@ Solutions to problems related to arrays and strings.
 - [Remove Duplicates from Sorted Array II](top-interview-150/array-strings/80-remove-duplicates-from-sorted-array-ii.java)
 - [Merged Sorted Array](top-interview-150/array-strings/88-merged-sorted-array.java)
 
+### Hashmap
+
+Solutions to problems that can be solved using hashmaps.
+
+- [Ransom Note](top-interview-150/hashmap/383-ransom-note.java)
+
+### Intervals
+
+Solutions to problems involving intervals.
+
+- [Summary Ranges](top-interview-150/intervals/282-summary-ranges.java)
+
+### Linked List
+
+Solutions to problems related to linked lists.
+
+- [Linked List Cycle](top-interview-150/linked-list/141-linked-list-cycle.java)
+
+### Matrix
+
+Solutions to problems involving matrices.
+
+- [Valid Sudoku](top-interview-150/matrix/36-valid-sudoku.java)
+
 ### Sliding Window
 
 Solutions to problems that can be solved using the sliding window technique.
 
 - [Minimum Size Subarray Sum](top-interview-150/sliding-window/209-minimum-size-subarray-sum.java)
+
+### Stack
+
+Solutions to problems that can be solved using the stack data structure.
+
+- [Valid Parenthesis](top-interview-150/stack/20-valid-parenthesis.java)
 
 ### Two Pointers
 
