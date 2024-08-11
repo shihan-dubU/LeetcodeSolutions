@@ -1,7 +1,9 @@
 # LeetCode Solutions - Top Interview 150
 
+Progress: 30/150
+
 This repository contains my solutions to the Top Interview 150 questions from LeetCode. These solutions are written in Java and are organized by problem categories for easy navigation.
-*EDIT* :  future solutions created from 11/8/2024 will be written in Go.  
+Future solutions created from 11/8/2024 will be written in Go.  
 
 ## Problem Categories
 
